@@ -1,2 +1,2 @@
-# nunit-demo
-NUnit in .Net Core demo
+# nunit-demo and quality metrics report generation sample
+
