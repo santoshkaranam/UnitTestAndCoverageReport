@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<results>
+  <modules>
+    <module name="nunit.demo.dll" path="nunit.demo.dll" id="AE4F275AFDA1664E86AC52CB58E666F901000000" block_coverage="84.21" line_coverage="86.36" blocks_covered="16" blocks_not_covered="3" lines_covered="19" lines_partially_covered="0" lines_not_covered="3">
+      <functions>
+        <function id="8272" token="0x6000001" name="Addition(int, int)" namespace="Nunit.Demo" type_name="Calculator" block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0">
+          <ranges>
+            <range source_id="0" covered="yes" start_line="8" start_column="9" end_line="8" end_column="10" />
+            <range source_id="0" covered="yes" start_line="9" start_column="13" end_line="9" end_column="35" />
+            <range source_id="0" covered="yes" start_line="10" start_column="9" end_line="10" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8293" token="0x6000002" name="Dispose()" namespace="Nunit.Demo" type_name="Calculator" block_coverage="100.00" line_coverage="100.00" blocks_covered="1" blocks_not_covered="0" lines_covered="2" lines_partially_covered="0" lines_not_covered="0">
+          <ranges>
+            <range source_id="0" covered="yes" start_line="13" start_column="9" end_line="13" end_column="10" />
+            <range source_id="0" covered="yes" start_line="15" start_column="9" end_line="15" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8296" token="0x6000003" name="Subtraction(int, int)" namespace="Nunit.Demo" type_name="Calculator" block_coverage="100.00" line_coverage="100.00" blocks_covered="6" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0">
+          <ranges>
+            <range source_id="0" covered="yes" start_line="18" start_column="9" end_line="18" end_column="10" />
+            <range source_id="0" covered="yes" start_line="19" start_column="13" end_line="19" end_column="32" />
+            <range source_id="0" covered="yes" start_line="20" start_column="17" end_line="20" end_column="106" />
+            <range source_id="0" covered="yes" start_line="22" start_column="13" end_line="22" end_column="35" />
+            <range source_id="0" covered="yes" start_line="23" start_column="9" end_line="23" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8356" token="0x6000004" name="Multiplication(int, int)" namespace="Nunit.Demo" type_name="Calculator" block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0">
+          <ranges>
+            <range source_id="0" covered="yes" start_line="26" start_column="9" end_line="26" end_column="10" />
+            <range source_id="0" covered="yes" start_line="27" start_column="13" end_line="27" end_column="35" />
+            <range source_id="0" covered="yes" start_line="28" start_column="9" end_line="28" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8380" token="0x6000005" name="Division(int, int)" namespace="Nunit.Demo" type_name="Calculator" block_coverage="100.00" line_coverage="100.00" blocks_covered="5" blocks_not_covered="0" lines_covered="6" lines_partially_covered="0" lines_not_covered="0">
+          <ranges>
+            <range source_id="0" covered="yes" start_line="31" start_column="9" end_line="31" end_column="10" />
+            <range source_id="0" covered="yes" start_line="32" start_column="13" end_line="32" end_column="30" />
+            <range source_id="0" covered="yes" start_line="33" start_column="13" end_line="33" end_column="14" />
+            <range source_id="0" covered="yes" start_line="34" start_column="17" end_line="34" end_column="72" />
+            <range source_id="0" covered="yes" start_line="38" start_column="13" end_line="38" end_column="39" />
+            <range source_id="0" covered="yes" start_line="39" start_column="9" end_line="39" end_column="10" />
+          </ranges>
+        </function>
+        <function id="8424" token="0x6000006" name="SquareRoot(int)" namespace="Nunit.Demo" type_name="Calculator" block_coverage="0.00" line_coverage="0.00" blocks_covered="0" blocks_not_covered="3" lines_covered="0" lines_partially_covered="0" lines_not_covered="3">
+          <ranges>
+            <range source_id="0" covered="no" start_line="42" start_column="9" end_line="42" end_column="10" />
+            <range source_id="0" covered="no" start_line="43" start_column="13" end_line="43" end_column="38" />
+            <range source_id="0" covered="no" start_line="44" start_column="9" end_line="44" end_column="10" />
+          </ranges>
+        </function>
+      </functions>
+      <source_files>
+        <source_file id="0" path="C:\code\nunit-demo\Nunit.Demo\Nunit.Demo\Calculator.cs" checksum_type="unknown">
+        </source_file>
+      </source_files>
+    </module>
+  </modules>
+</results>

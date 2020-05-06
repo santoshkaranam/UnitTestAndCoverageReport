@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" duration="0.05900090000000003" testcasecount="13" total="13" passed="13" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2020-05-06T 08:16:35Z" end-time="2020-05-06T 08:16:37Z">
+  <test-suite type="Assembly" name="Nunit.Demo.Test.dll" fullname="C:\code\nunit-demo\Nunit.Demo\Nunit.Demo.Test\bin\Debug\netcoreapp2.0\Nunit.Demo.Test.dll" total="13" passed="13" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.0590009">
+    <test-suite type="TestSuite" name="Nunit" fullname="Nunit" total="13" passed="13" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.0590009">
+      <test-suite type="TestSuite" name="Demo" fullname="Nunit.Demo" total="13" passed="13" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.0590009">
+        <test-suite type="TestSuite" name="Test" fullname="Nunit.Demo.Test" total="13" passed="13" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.0590009">
+          <test-suite type="TestFixture" name="CalculatorTest" fullname="Nunit.Demo.Test.CalculatorTest" total="13" passed="13" failed="0" inconclusive="0" skipped="0" result="Passed" duration="0.0590009">
+            <test-case name="Test_Subtraction_Argument_Exception" fullname="Nunit.Demo.Test.CalculatorTest.Test_Subtraction_Argument_Exception" methodname="Test_Subtraction_Argument_Exception" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="0.042" asserts="0" />
+            <test-case name="Test_Addition_With_Valid_Intigers" fullname="Nunit.Demo.Test.CalculatorTest.Test_Addition_With_Valid_Intigers" methodname="Test_Addition_With_Valid_Intigers" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="0.015" asserts="0" />
+            <test-case name="Test_Addition_Multiple(1,2,3)" fullname="Nunit.Demo.Test.CalculatorTest.Test_Addition_Multiple" methodname="Test_Addition_Multiple" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="1E-07" asserts="0" />
+            <test-case name="Test_Addition_Multiple(2,3,5)" fullname="Nunit.Demo.Test.CalculatorTest.Test_Addition_Multiple" methodname="Test_Addition_Multiple" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="1E-07" asserts="0" />
+            <test-case name="Test_Addition_Multiple(3,4,7)" fullname="Nunit.Demo.Test.CalculatorTest.Test_Addition_Multiple" methodname="Test_Addition_Multiple" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="1E-07" asserts="0" />
+            <test-case name="Test_Addition_Subtraction(8,3,5)" fullname="Nunit.Demo.Test.CalculatorTest.Test_Addition_Subtraction" methodname="Test_Addition_Subtraction" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="1E-07" asserts="0" />
+            <test-case name="Test_Addition_Subtraction(11,4,7)" fullname="Nunit.Demo.Test.CalculatorTest.Test_Addition_Subtraction" methodname="Test_Addition_Subtraction" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="1E-07" asserts="0" />
+            <test-case name="Test_Division(1,1,1)" fullname="Nunit.Demo.Test.CalculatorTest.Test_Division" methodname="Test_Division" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="0.001" asserts="0" />
+            <test-case name="Test_Division_Argument_Exception" fullname="Nunit.Demo.Test.CalculatorTest.Test_Division_Argument_Exception" methodname="Test_Division_Argument_Exception" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="0.001" asserts="0" />
+            <test-case name="Test_Multiplication(1,1,1)" fullname="Nunit.Demo.Test.CalculatorTest.Test_Multiplication" methodname="Test_Multiplication" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="1E-07" asserts="0" />
+            <test-case name="Test_Multiplication(2,4,8)" fullname="Nunit.Demo.Test.CalculatorTest.Test_Multiplication" methodname="Test_Multiplication" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="1E-07" asserts="0" />
+            <test-case name="Test_Multiplication(-2,4,-8)" fullname="Nunit.Demo.Test.CalculatorTest.Test_Multiplication" methodname="Test_Multiplication" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="1E-07" asserts="0" />
+            <test-case name="Test_Multiplication(-2,-4,8)" fullname="Nunit.Demo.Test.CalculatorTest.Test_Multiplication" methodname="Test_Multiplication" classname="Nunit.Demo.Test.CalculatorTest" result="Passed" duration="1E-07" asserts="0" />
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+    <errors />
+  </test-suite>
+</test-run>

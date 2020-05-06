@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=42c37cfe_002D5489_002D4490_002Da006_002Dc47c7b7e8e60/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculatorTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4B96814E-7853-4AA6-BF60-A3680AEFA385::.NETCoreApp,Version=v2.0::Nunit.Demo.Test.CalculatorTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9f3bbbdf_002De1dd_002D4377_002D8f01_002D8abe17c3dbeb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculatorTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4B96814E-7853-4AA6-BF60-A3680AEFA385::.NETCoreApp,Version=v2.0::Nunit.Demo.Test.CalculatorTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
